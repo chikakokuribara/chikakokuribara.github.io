@@ -13,7 +13,7 @@ body
     font-size: 1.4rem;
     line-height: 1.6;
     letter-spacing: .1em;
-    color: #611b00; /*エネルギッシュなイメージを強調*/
+    color: #fffaf0; /*エネルギッシュなイメージを強調*/
     background-color: #61534e;/*女性的な温かみの雰囲気を出したいため*/
 }
 
@@ -21,7 +21,7 @@ a
 {
     text-decoration: none;
 
-    color: #14c0c9;
+    color: #fffaf0;
 }
 a:visited
 {
@@ -336,5 +336,5 @@ footer
     padding: 10px 0;
     text-align: center;
     color: #fff;
-    background-color: #bea300;
+    background-color: #622d18;
 }

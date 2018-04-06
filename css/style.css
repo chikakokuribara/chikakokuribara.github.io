@@ -13,8 +13,8 @@ body
     font-size: 1.4rem;
     line-height: 1.6;
     letter-spacing: .1em;
-    color: #ff4500; /*エネルギッシュなイメージを強調*/
-    background-color: #fffacd;/*女性的な温かみの雰囲気を出したいため*/
+    color: #611b00; /*エネルギッシュなイメージを強調*/
+    background-color: #61534e;/*女性的な温かみの雰囲気を出したいため*/
 }
 
 a
@@ -147,7 +147,7 @@ section h2
 
 #skills
 {
-    background-color: #ffa500;
+    background-color: #622d18;
 }
 #skills .container
 {
